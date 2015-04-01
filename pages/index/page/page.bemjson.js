@@ -52,7 +52,7 @@ module.exports = {
                                         {
                                             block: 'image',
                                             mix: [{ block: 'logo', elem: 'gulp' }],
-                                            url: 'https://raw2.github.com/gulpjs/artwork/master/gulp-2x.png'
+                                            url: 'https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png'
                                         }
                                     ]
                                 }
